@@ -1,6 +1,6 @@
 ---
 title: Брендбук
-type: brandbook
+type: default
 ---
 
 

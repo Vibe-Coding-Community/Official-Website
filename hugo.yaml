@@ -52,6 +52,10 @@ params:
     displayCopyright: false
     displayPoweredBy: true
 
+  page:
+    # full (100%), wide (90rem), normal (1280px)
+    width: wide
+
   editURL:
     enable: true
     base: "https://github.com/Vibe-Coding-Community/Official-Website/edit/main/content"

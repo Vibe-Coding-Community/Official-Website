@@ -1,6 +1,6 @@
 ---
 title: Стратегический план развития Vibe Coding Community (3 года)
-type: strategy
+type: default
 --- 
 
 ## Развитие Telegram-чата

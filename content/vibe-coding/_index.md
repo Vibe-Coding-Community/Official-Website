@@ -1,6 +1,7 @@
 ---
 title: Vibe Coding
-type: about
+cascade:
+  type: docs
 ---
 
 # Что такое Vibe Coding?
