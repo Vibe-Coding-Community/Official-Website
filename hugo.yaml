@@ -42,6 +42,20 @@ menu:
       url: "https://github.com/Vibe-Coding-Community"
       params:
         icon: github
+    - name: Telegram
+      url: "https://t.me/vibe_coding_tips"
+      weight: 8
+      params:
+        icon: telegram
+
+defaultContentLanguage: ru
+languages:
+  ru:
+    languageName: Русский
+    weight: 1
+  en:
+    languageName: English
+    weight: 2
 
 params:
   navbar:
