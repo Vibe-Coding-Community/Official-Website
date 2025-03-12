@@ -30,6 +30,9 @@ menu:
     - name: VCC Agency
       pageRef: /agency
       weight: 4
+    - name: VCC Crypto
+      pageRef: /crypto
+      weight: 4
     - name: Сообщество ↗
       url: "https://t.me/vibe_coding_community"
       weight: 5
