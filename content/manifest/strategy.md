@@ -1,6 +1,5 @@
 ---
 title: Стратегический план развития Vibe Coding Community (3 года)
-type: default
 --- 
 
 ## Развитие GitHub Open Organization “Vibe Coding Community”

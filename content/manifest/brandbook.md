@@ -1,6 +1,5 @@
 ---
 title: Брендбук
-type: default
 ---
 
 
