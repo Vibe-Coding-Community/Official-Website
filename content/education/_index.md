@@ -1,5 +1,5 @@
 ---
-title: Vibe Coding
+title: VCC Education
 cascade:
   type: docs
 ---

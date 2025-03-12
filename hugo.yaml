@@ -18,12 +18,12 @@ markup:
 
 menu:
   main:
-    - name: Vibe Coding
-      pageRef: /vibe-coding
+    - name: VCC Education
+      pageRef: /education
       weight: 1
     - name: Манифест
       pageRef: /manifest
-      weight: 3
+      weight: 4
     - name: VCC Agency
       pageRef: /agency
       weight: 4
