@@ -1,5 +1,6 @@
 ---
 title: Vibe Coding Community Manifesto
+linkTitle: Manifesto
 type: default
 ---
 

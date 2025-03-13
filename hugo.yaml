@@ -1,6 +1,12 @@
 # Hugo configuration file
 title: Vibe Coding Community
 
+enableRobotsTXT: true
+
+enableGitInfo: true
+
+enableInlineShortcodes: true
+
 # import hextra as module
 module:
   imports:
@@ -58,16 +64,28 @@ languages:
     weight: 2
 
 params:
+
+  theme:
+    # light | dark | system
+    default: dark
+    displayToggle: true
+
+  description: We are building a future where software development becomes a harmonious symbiosis of human ingenuity and artificial intelligence.
+
   navbar:
     displayTitle: true
     displayLogo: true
-    link: /
-    path: favicon.svg
-    dark: favicon-dark.svg
+    logo:
+      link: /
+      path: /favicon.svg
+      dark: /favicon-dark.svg
+
+  displayUpdatedDate: true
+  dateFormat: "January 2, 2006"
 
   footer:
-    displayCopyright: false
-    displayPoweredBy: true
+    displayCopyright: true
+    displayPoweredBy: false
 
   page:
     # full (100%), wide (90rem), normal (1280px)
@@ -76,3 +94,9 @@ params:
   editURL:
     enable: true
     base: "https://github.com/Vibe-Coding-Community/Official-Website/edit/main/content"
+
+  highlight:
+    copy:
+      enable: true
+      # hover | always
+      display: hover

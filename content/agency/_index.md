@@ -1,5 +1,6 @@
 ---
-title: VCC Agency – Полный цикл разработки с искусственным интеллектом, под тщательным надзором опытной команды.
+title: VCC Agency
+linkTitle: VCC Agency
 type: default
 --- 
 

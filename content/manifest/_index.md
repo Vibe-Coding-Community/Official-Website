@@ -1,5 +1,6 @@
 ---
 title: Манифест Vibe Coding Community
+linkTitle: Манифест
 type: default
 ---
 
