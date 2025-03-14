@@ -100,3 +100,7 @@ params:
       enable: true
       # hover | always
       display: hover
+
+services:
+  googleAnalytics:
+    ID: G-T6C43TDS9P
