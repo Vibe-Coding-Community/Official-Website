@@ -2,6 +2,7 @@
 title: Vibe Coding Community Manifesto
 linkTitle: Manifesto
 type: default
+weight: 2
 ---
 
 ![Vibe Coding Community](/head.png)

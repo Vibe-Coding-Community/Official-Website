@@ -2,6 +2,7 @@
 title: Манифест Vibe Coding Community
 linkTitle: Манифест
 type: default
+weight: 2
 ---
 
 ![Vibe Coding Community](/head.png)
