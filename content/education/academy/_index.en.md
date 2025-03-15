@@ -1,10 +1,10 @@
 ---
-title: Платные курсы
+title: Training Programs
 type: default
 weight: 2
 --- 
 
-## In this section, you will find paid courses on Vibe Coding
+## In this section, you will find Training Programs for Vibe Coding
 
 Course payments are accepted in the community cryptocurrency – VCC.
 You can also contribute to course creation and earn royalties in VCC.
