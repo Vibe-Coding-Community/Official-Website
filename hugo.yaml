@@ -106,3 +106,6 @@ params:
 services:
   googleAnalytics:
     ID: G-T6C43TDS9P
+
+sitemap:
+  filename: sitemap.xml
