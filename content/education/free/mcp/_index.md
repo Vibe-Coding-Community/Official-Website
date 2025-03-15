@@ -1,6 +1,6 @@
 ---
 title: MCP - Model Context Protocol
-type: agency
+type: default
 --- 
 
 MCP - это открытый протокол, который стандартизирует способ предоставления контекста языковым моделям (LLM) приложениями
